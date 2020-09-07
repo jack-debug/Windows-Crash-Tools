@@ -1,0 +1,10 @@
+C:\Users\stant\source\repos\ComputerCrashingTools\bin\Debug\ComputerCrashingTools.exe.config
+C:\Users\stant\source\repos\ComputerCrashingTools\bin\Debug\ComputerCrashingTools.exe
+C:\Users\stant\source\repos\ComputerCrashingTools\bin\Debug\ComputerCrashingTools.pdb
+C:\Users\stant\source\repos\ComputerCrashingTools\obj\Debug\ComputerCrashingTools.csprojAssemblyReference.cache
+C:\Users\stant\source\repos\ComputerCrashingTools\obj\Debug\ComputerCrashingTools.Form1.resources
+C:\Users\stant\source\repos\ComputerCrashingTools\obj\Debug\ComputerCrashingTools.Properties.Resources.resources
+C:\Users\stant\source\repos\ComputerCrashingTools\obj\Debug\ComputerCrashingTools.csproj.GenerateResource.cache
+C:\Users\stant\source\repos\ComputerCrashingTools\obj\Debug\ComputerCrashingTools.csproj.CoreCompileInputs.cache
+C:\Users\stant\source\repos\ComputerCrashingTools\obj\Debug\ComputerCrashingTools.exe
+C:\Users\stant\source\repos\ComputerCrashingTools\obj\Debug\ComputerCrashingTools.pdb
